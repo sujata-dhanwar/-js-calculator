@@ -5,10 +5,6 @@ This is my first JavaScript mini project to practice DOM manipulation and user i
 
 ---
 
-
-
----
-
 ## 🛠️ Features
 
 - Basic arithmetic operations: Add, Subtract, Multiply, Divide
@@ -27,5 +23,5 @@ This is my first JavaScript mini project to practice DOM manipulation and user i
 
 ---
 
-## 📁 Folder Structure
+
 
