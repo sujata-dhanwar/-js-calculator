@@ -5,11 +5,7 @@ This is my first JavaScript mini project to practice DOM manipulation and user i
 
 ---
 
-## 📸 Demo
 
-![Calculator Screenshot](screenshot.png)
-
-🔗 [Live Demo](https://sujata-dhanwar.github.io/-js-calculator/) <!-- Paste your actual GitHub Pages link here -->
 
 ---
 
